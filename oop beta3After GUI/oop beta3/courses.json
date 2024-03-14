@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 500,
+    "Name": "Introduction to Python",
+    "Hours": 15
+  },
+  {
+    "Id": 501,
+    "Name": "JavaScript Fundamentals",
+    "Hours": 20
+  },
+  {
+    "Id": 502,
+    "Name": "C# Programming Basics",
+    "Hours": 10
+  },
+  {
+    "Id": 503,
+    "Name": "Web Development with HTML and CSS",
+    "Hours": 25
+  },
+  {
+    "Id": 504,
+    "Name": "Java Programming Essentials",
+    "Hours": 18
+  },
+  {
+    "Id": 505,
+    "Name": "Data Structures and Algorithms in C++",
+    "Hours": 30
+  },
+  {
+    "Id": 506,
+    "Name": "React.js Fundamentals",
+    "Hours": 22
+  },
+  {
+    "Id": 507,
+    "Name": "Database Design and SQL",
+    "Hours": 15
+  },
+  {
+    "Id": 508,
+    "Name": "Full Stack Development with MERN Stack",
+    "Hours": 40
+  },
+  {
+    "Id": 509,
+    "Name": "Machine Learning with Python",
+    "Hours": 35
+  },
+  {
+    "Id": 510,
+    "Name": "iOS App Development with Swift",
+    "Hours": 28
+  },
+  {
+    "Id": 511,
+    "Name": "Android App Development with Kotlin",
+    "Hours": 25
+  },
+  {
+    "Id": 512,
+    "Name": "ASP.NET Core MVC",
+    "Hours": 20
+  },
+  {
+    "Id": 513,
+    "Name": "Frontend Frameworks: Angular, Vue, React",
+    "Hours": 30
+  },
+  {
+    "Id": 514,
+    "Name": "Node.js and Express.js",
+    "Hours": 25
+  },
+  {
+    "Id": 515,
+    "Name": "Software Testing and Quality Assurance",
+    "Hours": 20
+  },
+  {
+    "Id": 516,
+    "Name": "Python for Data Science",
+    "Hours": 30
+  },
+  {
+    "Id": 517,
+    "Name": "Blockchain Development with Solidity",
+    "Hours": 40
+  },
+  {
+    "Id": 518,
+    "Name": "Cloud Computing with AWS",
+    "Hours": 35
+  },
+  {
+    "Id": 519,
+    "Name": "Game Development with Unity",
+    "Hours": 25
+  }
+]

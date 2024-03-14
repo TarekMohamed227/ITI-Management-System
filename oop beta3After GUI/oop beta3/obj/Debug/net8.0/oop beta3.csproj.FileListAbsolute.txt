@@ -1,0 +1,51 @@
+D:\ITI\WEEK 7\DAY 2\oop beta3\bin\Debug\net8.0\oop beta3.exe
+D:\ITI\WEEK 7\DAY 2\oop beta3\bin\Debug\net8.0\oop beta3.deps.json
+D:\ITI\WEEK 7\DAY 2\oop beta3\bin\Debug\net8.0\oop beta3.runtimeconfig.json
+D:\ITI\WEEK 7\DAY 2\oop beta3\bin\Debug\net8.0\oop beta3.dll
+D:\ITI\WEEK 7\DAY 2\oop beta3\bin\Debug\net8.0\oop beta3.pdb
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\oop beta3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\oop beta3.AssemblyInfoInputs.cache
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\oop beta3.AssemblyInfo.cs
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\oop beta3.csproj.CoreCompileInputs.cache
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\oop beta3.dll
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\refint\oop beta3.dll
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\oop beta3.pdb
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\oop beta3.genruntimeconfig.cache
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\ref\oop beta3.dll
+D:\ITI\WEEK 7\DAY 2\oop beta3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\oop beta3.csproj.AssemblyReference.cache
+D:\ITI\WEEK 7\DAY 2\oop beta3\obj\Debug\net8.0\oop beta3.csproj.CopyComplete
+D:\zizo\oop beta3\bin\Debug\net8.0\oop beta3.exe
+D:\zizo\oop beta3\bin\Debug\net8.0\oop beta3.deps.json
+D:\zizo\oop beta3\bin\Debug\net8.0\oop beta3.runtimeconfig.json
+D:\zizo\oop beta3\bin\Debug\net8.0\oop beta3.dll
+D:\zizo\oop beta3\bin\Debug\net8.0\oop beta3.pdb
+D:\zizo\oop beta3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\zizo\oop beta3\obj\Debug\net8.0\oop beta3.csproj.AssemblyReference.cache
+D:\zizo\oop beta3\obj\Debug\net8.0\oop beta3.GeneratedMSBuildEditorConfig.editorconfig
+D:\zizo\oop beta3\obj\Debug\net8.0\oop beta3.AssemblyInfoInputs.cache
+D:\zizo\oop beta3\obj\Debug\net8.0\oop beta3.AssemblyInfo.cs
+D:\zizo\oop beta3\obj\Debug\net8.0\oop beta3.csproj.CoreCompileInputs.cache
+D:\zizo\oop beta3\obj\Debug\net8.0\oop beta3.csproj.CopyComplete
+D:\zizo\oop beta3\obj\Debug\net8.0\oop beta3.dll
+D:\zizo\oop beta3\obj\Debug\net8.0\refint\oop beta3.dll
+D:\zizo\oop beta3\obj\Debug\net8.0\oop beta3.pdb
+D:\zizo\oop beta3\obj\Debug\net8.0\oop beta3.genruntimeconfig.cache
+D:\zizo\oop beta3\obj\Debug\net8.0\ref\oop beta3.dll
+D:\oop beta3\bin\Debug\net8.0\oop beta3.exe
+D:\oop beta3\bin\Debug\net8.0\oop beta3.deps.json
+D:\oop beta3\bin\Debug\net8.0\oop beta3.runtimeconfig.json
+D:\oop beta3\bin\Debug\net8.0\oop beta3.dll
+D:\oop beta3\bin\Debug\net8.0\oop beta3.pdb
+D:\oop beta3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\oop beta3\obj\Debug\net8.0\oop beta3.csproj.AssemblyReference.cache
+D:\oop beta3\obj\Debug\net8.0\oop beta3.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop beta3\obj\Debug\net8.0\oop beta3.AssemblyInfoInputs.cache
+D:\oop beta3\obj\Debug\net8.0\oop beta3.AssemblyInfo.cs
+D:\oop beta3\obj\Debug\net8.0\oop beta3.csproj.CoreCompileInputs.cache
+D:\oop beta3\obj\Debug\net8.0\oop beta3.csproj.CopyComplete
+D:\oop beta3\obj\Debug\net8.0\oop beta3.dll
+D:\oop beta3\obj\Debug\net8.0\refint\oop beta3.dll
+D:\oop beta3\obj\Debug\net8.0\oop beta3.pdb
+D:\oop beta3\obj\Debug\net8.0\oop beta3.genruntimeconfig.cache
+D:\oop beta3\obj\Debug\net8.0\ref\oop beta3.dll

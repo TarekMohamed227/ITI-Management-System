@@ -1,0 +1,210 @@
+[
+  {
+    "Id": 100,
+    "Name": "Amr Ali",
+    "Address": "Cairo",
+    "PhoneNumber": "01234567890",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1000,
+      "TrackName": "Web Development Track"
+    }
+  },
+  {
+    "Id": 101,
+    "Name": "Aya Mahmoud",
+    "Address": "Alexandria",
+    "PhoneNumber": "01567893456",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1000,
+      "TrackName": "Web Development Track"
+    }
+  },
+  {
+    "Id": 102,
+    "Name": "Hassan Farid",
+    "Address": "Giza",
+    "PhoneNumber": "01098765432",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1000,
+      "TrackName": "Web Development Track"
+    }
+  },
+  {
+    "Id": 103,
+    "Name": "Nour Ahmed",
+    "Address": "Shubra El-Kheima",
+    "PhoneNumber": "01215678903",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1000,
+      "TrackName": "Web Development Track"
+    }
+  },
+  {
+    "Id": 104,
+    "Name": "Mahmoud Tarek",
+    "Address": "Port Said",
+    "PhoneNumber": "01543219876",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1001,
+      "TrackName": "Data Science and Machine Learning Track"
+    }
+  },
+  {
+    "Id": 105,
+    "Name": "Farida Samir",
+    "Address": "Suez",
+    "PhoneNumber": "01209456781",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1001,
+      "TrackName": "Data Science and Machine Learning Track"
+    }
+  },
+  {
+    "Id": 106,
+    "Name": "Tamer Hossam",
+    "Address": "Luxor",
+    "PhoneNumber": "01512038476",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1001,
+      "TrackName": "Data Science and Machine Learning Track"
+    }
+  },
+  {
+    "Id": 107,
+    "Name": "Yasmine Hassan",
+    "Address": "Asyut",
+    "PhoneNumber": "01123456789",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1001,
+      "TrackName": "Data Science and Machine Learning Track"
+    }
+  },
+  {
+    "Id": 108,
+    "Name": "Khaled Saleh",
+    "Address": "Ismailia",
+    "PhoneNumber": "01590234876",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1002,
+      "TrackName": "Mobile App Development Track"
+    }
+  },
+  {
+    "Id": 109,
+    "Name": "Dalia Kamal",
+    "Address": "Fayoum",
+    "PhoneNumber": "01034567812",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1002,
+      "TrackName": "Mobile App Development Track"
+    }
+  },
+  {
+    "Id": 110,
+    "Name": "Karim Omar",
+    "Address": "Zagazig",
+    "PhoneNumber": "01287654321",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1002,
+      "TrackName": "Mobile App Development Track"
+    }
+  },
+  {
+    "Id": 111,
+    "Name": "Laila Adel",
+    "Address": "Damietta",
+    "PhoneNumber": "01109876543",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1002,
+      "TrackName": "Mobile App Development Track"
+    }
+  },
+  {
+    "Id": 112,
+    "Name": "Omar Fahmy",
+    "Address": "Minya",
+    "PhoneNumber": "01456789032",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1003,
+      "TrackName": "Full Stack Development Track"
+    }
+  },
+  {
+    "Id": 113,
+    "Name": "Shaimaa Magdy",
+    "Address": "Beni Suef",
+    "PhoneNumber": "01876543210",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1003,
+      "TrackName": "Full Stack Development Track"
+    }
+  },
+  {
+    "Id": 114,
+    "Name": "Ahmed Ibrahim",
+    "Address": "Sohag",
+    "PhoneNumber": "01123456789",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1003,
+      "TrackName": "Full Stack Development Track"
+    }
+  },
+  {
+    "Id": 115,
+    "Name": "Hoda Ali",
+    "Address": "Hurghada",
+    "PhoneNumber": "01234567890",
+    "Role": "student",
+    "Track": {
+      "TrackId": 1003,
+      "TrackName": "Full Stack Development Track"
+    }
+  },
+  {
+    "Id": 116,
+    "Name": "Mohamed Kamel",
+    "Address": "Mansoura",
+    "PhoneNumber": "01567893456",
+    "Role": "student",
+    "Track": null
+  },
+  {
+    "Id": 117,
+    "Name": "Rania Salem",
+    "Address": "Tanta",
+    "PhoneNumber": "01098765432",
+    "Role": "student",
+    "Track": null
+  },
+  {
+    "Id": 118,
+    "Name": "Sherif Ahmed",
+    "Address": "Aswan",
+    "PhoneNumber": "01215678903",
+    "Role": "student",
+    "Track": null
+  },
+  {
+    "Id": 119,
+    "Name": "Sara Gamal",
+    "Address": "Assiut",
+    "PhoneNumber": "01543219876",
+    "Role": "student",
+    "Track": null
+  }
+]

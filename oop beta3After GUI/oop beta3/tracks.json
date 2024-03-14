@@ -1,0 +1,546 @@
+[
+  {
+    "TrackId": 1000,
+    "TrackName": "Web Development Track",
+    "InstructorsWithCourses": [
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud",
+        "CourseId": 500,
+        "CourseName": "Introduction to Python",
+        "CourseHour": 15
+      },
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan",
+        "CourseId": 501,
+        "CourseName": "JavaScript Fundamentals",
+        "CourseHour": 20
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali",
+        "CourseId": 502,
+        "CourseName": "C# Programming Basics",
+        "CourseHour": 10
+      },
+      {
+        "InstructorId": 23,
+        "InstructorName": "Nadia Ibrahim",
+        "CourseId": 503,
+        "CourseName": "Web Development with HTML and CSS",
+        "CourseHour": 25
+      },
+      {
+        "InstructorId": 24,
+        "InstructorName": "Karim Abdel-Meguid",
+        "CourseId": 504,
+        "CourseName": "Java Programming Essentials",
+        "CourseHour": 18
+      },
+      {
+        "InstructorId": 25,
+        "InstructorName": "Amina Farid",
+        "CourseId": 506,
+        "CourseName": "React.js Fundamentals",
+        "CourseHour": 22
+      },
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud",
+        "CourseId": 507,
+        "CourseName": "Database Design and SQL",
+        "CourseHour": 15
+      },
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan",
+        "CourseId": 508,
+        "CourseName": "Full Stack Development with MERN Stack",
+        "CourseHour": 40
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali",
+        "CourseId": 513,
+        "CourseName": "Frontend Frameworks: Angular, Vue, React",
+        "CourseHour": 30
+      },
+      {
+        "InstructorId": 23,
+        "InstructorName": "Nadia Ibrahim",
+        "CourseId": 514,
+        "CourseName": "Node.js and Express.js",
+        "CourseHour": 25
+      },
+      {
+        "InstructorId": 24,
+        "InstructorName": "Karim Abdel-Meguid",
+        "CourseId": 512,
+        "CourseName": "ASP.NET Core MVC",
+        "CourseHour": 20
+      }
+    ],
+    "StudentsInfos": [
+      {
+        "StudentId": 100,
+        "StudentName": "Amr Ali"
+      },
+      {
+        "StudentId": 101,
+        "StudentName": "Aya Mahmoud"
+      },
+      {
+        "StudentId": 102,
+        "StudentName": "Hassan Farid"
+      },
+      {
+        "StudentId": 103,
+        "StudentName": "Nour Ahmed"
+      }
+    ],
+    "CoursesInfos": [
+      {
+        "CourseId": 500,
+        "CourseName": "Introduction to Python",
+        "CourseHours": 15
+      },
+      {
+        "CourseId": 501,
+        "CourseName": "JavaScript Fundamentals",
+        "CourseHours": 20
+      },
+      {
+        "CourseId": 502,
+        "CourseName": "C# Programming Basics",
+        "CourseHours": 10
+      },
+      {
+        "CourseId": 503,
+        "CourseName": "Web Development with HTML and CSS",
+        "CourseHours": 25
+      },
+      {
+        "CourseId": 504,
+        "CourseName": "Java Programming Essentials",
+        "CourseHours": 18
+      },
+      {
+        "CourseId": 506,
+        "CourseName": "React.js Fundamentals",
+        "CourseHours": 22
+      },
+      {
+        "CourseId": 507,
+        "CourseName": "Database Design and SQL",
+        "CourseHours": 15
+      },
+      {
+        "CourseId": 508,
+        "CourseName": "Full Stack Development with MERN Stack",
+        "CourseHours": 40
+      },
+      {
+        "CourseId": 513,
+        "CourseName": "Frontend Frameworks: Angular, Vue, React",
+        "CourseHours": 30
+      },
+      {
+        "CourseId": 514,
+        "CourseName": "Node.js and Express.js",
+        "CourseHours": 25
+      },
+      {
+        "CourseId": 512,
+        "CourseName": "ASP.NET Core MVC",
+        "CourseHours": 20
+      }
+    ],
+    "InstructorsInfos": [
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud"
+      },
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan"
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali"
+      },
+      {
+        "InstructorId": 23,
+        "InstructorName": "Nadia Ibrahim"
+      },
+      {
+        "InstructorId": 24,
+        "InstructorName": "Karim Abdel-Meguid"
+      },
+      {
+        "InstructorId": 25,
+        "InstructorName": "Amina Farid"
+      },
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud"
+      },
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan"
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali"
+      },
+      {
+        "InstructorId": 23,
+        "InstructorName": "Nadia Ibrahim"
+      },
+      {
+        "InstructorId": 24,
+        "InstructorName": "Karim Abdel-Meguid"
+      }
+    ]
+  },
+  {
+    "TrackId": 1001,
+    "TrackName": "Data Science and Machine Learning Track",
+    "InstructorsWithCourses": [
+      {
+        "InstructorId": 25,
+        "InstructorName": "Amina Farid",
+        "CourseId": 500,
+        "CourseName": "Introduction to Python",
+        "CourseHour": 15
+      },
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud",
+        "CourseId": 505,
+        "CourseName": "Data Structures and Algorithms in C++",
+        "CourseHour": 30
+      },
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan",
+        "CourseId": 509,
+        "CourseName": "Machine Learning with Python",
+        "CourseHour": 35
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali",
+        "CourseId": 516,
+        "CourseName": "Python for Data Science",
+        "CourseHour": 30
+      }
+    ],
+    "StudentsInfos": [
+      {
+        "StudentId": 104,
+        "StudentName": "Mahmoud Tarek"
+      },
+      {
+        "StudentId": 105,
+        "StudentName": "Farida Samir"
+      },
+      {
+        "StudentId": 106,
+        "StudentName": "Tamer Hossam"
+      },
+      {
+        "StudentId": 107,
+        "StudentName": "Yasmine Hassan"
+      }
+    ],
+    "CoursesInfos": [
+      {
+        "CourseId": 500,
+        "CourseName": "Introduction to Python",
+        "CourseHours": 15
+      },
+      {
+        "CourseId": 505,
+        "CourseName": "Data Structures and Algorithms in C++",
+        "CourseHours": 30
+      },
+      {
+        "CourseId": 509,
+        "CourseName": "Machine Learning with Python",
+        "CourseHours": 35
+      },
+      {
+        "CourseId": 516,
+        "CourseName": "Python for Data Science",
+        "CourseHours": 30
+      }
+    ],
+    "InstructorsInfos": [
+      {
+        "InstructorId": 25,
+        "InstructorName": "Amina Farid"
+      },
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud"
+      },
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan"
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali"
+      }
+    ]
+  },
+  {
+    "TrackId": 1002,
+    "TrackName": "Mobile App Development Track",
+    "InstructorsWithCourses": [
+      {
+        "InstructorId": 23,
+        "InstructorName": "Nadia Ibrahim",
+        "CourseId": 510,
+        "CourseName": "iOS App Development with Swift",
+        "CourseHour": 28
+      },
+      {
+        "InstructorId": 24,
+        "InstructorName": "Karim Abdel-Meguid",
+        "CourseId": 511,
+        "CourseName": "Android App Development with Kotlin",
+        "CourseHour": 25
+      },
+      {
+        "InstructorId": 25,
+        "InstructorName": "Amina Farid",
+        "CourseId": 506,
+        "CourseName": "React.js Fundamentals",
+        "CourseHour": 22
+      },
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud",
+        "CourseId": 514,
+        "CourseName": "Node.js and Express.js",
+        "CourseHour": 25
+      }
+    ],
+    "StudentsInfos": [
+      {
+        "StudentId": 108,
+        "StudentName": "Khaled Saleh"
+      },
+      {
+        "StudentId": 109,
+        "StudentName": "Dalia Kamal"
+      },
+      {
+        "StudentId": 110,
+        "StudentName": "Karim Omar"
+      },
+      {
+        "StudentId": 111,
+        "StudentName": "Laila Adel"
+      }
+    ],
+    "CoursesInfos": [
+      {
+        "CourseId": 510,
+        "CourseName": "iOS App Development with Swift",
+        "CourseHours": 28
+      },
+      {
+        "CourseId": 511,
+        "CourseName": "Android App Development with Kotlin",
+        "CourseHours": 25
+      },
+      {
+        "CourseId": 506,
+        "CourseName": "React.js Fundamentals",
+        "CourseHours": 22
+      },
+      {
+        "CourseId": 514,
+        "CourseName": "Node.js and Express.js",
+        "CourseHours": 25
+      }
+    ],
+    "InstructorsInfos": [
+      {
+        "InstructorId": 23,
+        "InstructorName": "Nadia Ibrahim"
+      },
+      {
+        "InstructorId": 24,
+        "InstructorName": "Karim Abdel-Meguid"
+      },
+      {
+        "InstructorId": 25,
+        "InstructorName": "Amina Farid"
+      },
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud"
+      }
+    ]
+  },
+  {
+    "TrackId": 1003,
+    "TrackName": "Full Stack Development Track",
+    "InstructorsWithCourses": [
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan",
+        "CourseId": 503,
+        "CourseName": "Web Development with HTML and CSS",
+        "CourseHour": 25
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali",
+        "CourseId": 501,
+        "CourseName": "JavaScript Fundamentals",
+        "CourseHour": 20
+      },
+      {
+        "InstructorId": 23,
+        "InstructorName": "Nadia Ibrahim",
+        "CourseId": 506,
+        "CourseName": "React.js Fundamentals",
+        "CourseHour": 22
+      },
+      {
+        "InstructorId": 24,
+        "InstructorName": "Karim Abdel-Meguid",
+        "CourseId": 514,
+        "CourseName": "Node.js and Express.js",
+        "CourseHour": 25
+      },
+      {
+        "InstructorId": 25,
+        "InstructorName": "Amina Farid",
+        "CourseId": 507,
+        "CourseName": "Database Design and SQL",
+        "CourseHour": 15
+      },
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud",
+        "CourseId": 512,
+        "CourseName": "ASP.NET Core MVC",
+        "CourseHour": 20
+      },
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan",
+        "CourseId": 513,
+        "CourseName": "Frontend Frameworks: Angular, Vue, React",
+        "CourseHour": 30
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali",
+        "CourseId": 508,
+        "CourseName": "Full Stack Development with MERN Stack",
+        "CourseHour": 40
+      }
+    ],
+    "StudentsInfos": [
+      {
+        "StudentId": 112,
+        "StudentName": "Omar Fahmy"
+      },
+      {
+        "StudentId": 113,
+        "StudentName": "Shaimaa Magdy"
+      },
+      {
+        "StudentId": 114,
+        "StudentName": "Ahmed Ibrahim"
+      },
+      {
+        "StudentId": 115,
+        "StudentName": "Hoda Ali"
+      }
+    ],
+    "CoursesInfos": [
+      {
+        "CourseId": 503,
+        "CourseName": "Web Development with HTML and CSS",
+        "CourseHours": 25
+      },
+      {
+        "CourseId": 501,
+        "CourseName": "JavaScript Fundamentals",
+        "CourseHours": 20
+      },
+      {
+        "CourseId": 506,
+        "CourseName": "React.js Fundamentals",
+        "CourseHours": 22
+      },
+      {
+        "CourseId": 514,
+        "CourseName": "Node.js and Express.js",
+        "CourseHours": 25
+      },
+      {
+        "CourseId": 507,
+        "CourseName": "Database Design and SQL",
+        "CourseHours": 15
+      },
+      {
+        "CourseId": 512,
+        "CourseName": "ASP.NET Core MVC",
+        "CourseHours": 20
+      },
+      {
+        "CourseId": 513,
+        "CourseName": "Frontend Frameworks: Angular, Vue, React",
+        "CourseHours": 30
+      },
+      {
+        "CourseId": 508,
+        "CourseName": "Full Stack Development with MERN Stack",
+        "CourseHours": 40
+      }
+    ],
+    "InstructorsInfos": [
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan"
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali"
+      },
+      {
+        "InstructorId": 23,
+        "InstructorName": "Nadia Ibrahim"
+      },
+      {
+        "InstructorId": 24,
+        "InstructorName": "Karim Abdel-Meguid"
+      },
+      {
+        "InstructorId": 25,
+        "InstructorName": "Amina Farid"
+      },
+      {
+        "InstructorId": 20,
+        "InstructorName": "Ahmed Mahmoud"
+      },
+      {
+        "InstructorId": 21,
+        "InstructorName": "Fatima Hassan"
+      },
+      {
+        "InstructorId": 22,
+        "InstructorName": "Mohamed Ali"
+      }
+    ]
+  }
+]
